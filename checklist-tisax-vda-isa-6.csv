@@ -1,0 +1,163 @@
+﻿"Seção";"ID";"Pergunta de auditoria";"Evidência esperada";"VDA ISA 6.0";"ISO 27001";"Situação";"Observações"
+"1. Governança e política de segurança";"TISAX-01";"Existe uma política formal de segurança da informação?";"Política aprovada";"Information Security";"5.2";"Conforme";""
+"1. Governança e política de segurança";"TISAX-02";"A política foi aprovada pela direção?";"Aprovação/documento";"Information Security";"5.2";"Conforme";""
+"1. Governança e política de segurança";"TISAX-03";"Existem responsabilidades formalmente definidas?";"Organograma/RACI";"Information Security";"5.3";"Conforme";""
+"1. Governança e política de segurança";"TISAX-04";"Existe responsável pelo ISMS/segurança?";"Nomeação formal";"Information Security";"5.3";"Parcial";""
+"1. Governança e política de segurança";"TISAX-05";"Os objetivos de segurança estão definidos?";"Objetivos/KPIs";"Information Security";"6.2";"Conforme";""
+"1. Governança e política de segurança";"TISAX-06";"Os riscos de segurança são avaliados periodicamente?";"Matriz de riscos";"Information Security";"6.1";"Conforme";""
+"1. Governança e política de segurança";"TISAX-07";"Existe plano de tratamento dos riscos?";"Risk Treatment Plan";"Information Security";"6.1.3";"Parcial";""
+"1. Governança e política de segurança";"TISAX-08";"A direção acompanha o desempenho do sistema?";"Ata/revisão gerencial";"Information Security";"9.3";"Parcial";""
+"2. Organização da segurança";"TISAX-09";"As responsabilidades de segurança estão documentadas?";"RACI";"Information Security";"5.3";"Conforme";""
+"2. Organização da segurança";"TISAX-10";"Existe segregação de funções críticas?";"Matriz de responsabilidades";"Information Security";"A.5";"Parcial";""
+"2. Organização da segurança";"TISAX-11";"Existem regras para conflitos de interesse?";"Política/procedimento";"Information Security";"A.5";"N/A";""
+"2. Organização da segurança";"TISAX-12";"Existem contatos para incidentes de segurança?";"Lista de contatos";"Information Security";"A.5";"Conforme";"Existe uma planilha de seguranca com os nomes e telefone e-mail para  acidente / segurança"
+"2. Organização da segurança";"TISAX-13";"A segurança da informação faz parte dos processos corporativos?";"Procedimentos";"Information Security";"5–8";"Conforme";"Sim "
+"3. Gestão de ativos";"TISAX-14";"Existe inventário de ativos?";"CMDB/inventário";"";"";"Não conforme";"Não existe nenhum inventario sobre ativos"
+"3. Gestão de ativos";"TISAX-15";"Os ativos possuem responsáveis?";"Owner";"";"";"Conforme";"Sim cada departamento e responsavel pelo ativo"
+"3. Gestão de ativos";"TISAX-16";"As informações são classificadas?";"Matriz de classificação";"";"";"Melhoria";"As informações devem ser classificadas de acordo com as necessidade de segurança da informação da organizalçao com base na confidencialidade, integridade disponibilidade e requisito das partes interessada relevates"
+"3. Gestão de ativos";"TISAX-17";"Existem regras de tratamento para cada classificação?";"Política";"";"";"Conforme";"Regras , procedimento ou acordo de transferencia de informaçoes devem ser implementados para todos os tipos de recursos de transferencia dentro da organicação"
+"3. Gestão de ativos";"TISAX-18";"Existe processo de entrada e retirada de equipamentos?";"Procedimento";"";"";"Parcial";"existe um controle por equipamento , por departamento "
+"3. Gestão de ativos";"TISAX-19";"Equipamentos de colaboradores são controlados?";"Inventário";"";"";"Conforme";"
+Sim existe segurança fisica para escritorio , sala e instalação deve ser projetada 
+
+"
+"3. Gestão de ativos";"TISAX-20";"Existe controle de ativos de terceiros?";"Contratos/inventário";"";"";"N/A";"Nao "
+"4. Classificação das informações";"TISAX-21";"Existe classificação da informação?";"Política";"";"";"N/A";""
+"4. Classificação das informações";"TISAX-22";"Existem níveis de classificação?";"Matriz";"";"";"Conforme";"5.12 As informações devem ser classificadas de acordo
+com as necessidades de segurança da informação da
+organização, com base na confidencialidade, integridade,
+disponibilidade e requisitos das partes interessadas
+relevantes"
+"4. Classificação das informações";"TISAX-23";"A classificação considera criticidade e proteção necessária?";"Critérios";"";"";"N/A";""
+"4. Classificação das informações";"TISAX-24";"Documentos confidenciais possuem identificação?";"Amostras";"";"";"Conforme";"7.5.3 Controle da informação documentada
+A informação documentada requerida pelo sistema de gestão da segurança da informação e por este
+documento deve ser controlada para assegurar que:
+ a) esteja disponível e adequada para o uso, onde e quando necessário; e
+ b) esteja protegida adequadamente (por exemplo, contra perda de confidencialidade, uso indevido
+ou perda de integridade).
+Para o controle da informação documentada, a organização deve considerar as seguintes atividades,
+conforme aplicável:
+ c) distribuição, acesso, recuperação e uso;
+ d) armazenamento e preservação, incluindo a preservação da legibilidade;
+ e) controle de mudanças (por exemplo, controle de versão); e
+ f) retenção e disposição   "
+"4. Classificação das informações";"TISAX-25";"Existem regras para compartilhamento de informações?";"Procedimento";"";"";"Conforme";""
+"4. Classificação das informações";"TISAX-26";"Existem regras para descarte seguro?";"Procedimento";"";"";"Conforme";"7.14 Os itens dos equipamentos que contenham mídia de
+armazenamento devem ser verificados para assegurar
+que quaisquer dados confidenciais e software licenciado
+tenham sido removidos ou substituídos com segurança
+antes do descarte ou reutilização"
+"4. Classificação das informações";"TISAX-27";"Informações de clientes são tratadas conforme contratos?";"Contratos/evidências";"";"";"Conforme";"Sim o departamento de vendas é o responsavel na inclusão do dados do cliente  com mais assertividade"
+"5. Controle de acesso";"TISAX-28";"Existe política de controle de acesso?";"Política";"";"";"Conforme";"Sim  nossa controe "
+"5. Controle de acesso";"TISAX-29";"O acesso é concedido conforme necessidade?";"Matriz de acesso";"";"";"Conforme";"5.15 Regras para controlar o acesso físico e lógico às
+informações e a outros ativos associados devem ser
+estabelecidas e implementadas com base nos requisitos
+de segurança da informação e de negócios."
+"5. Controle de acesso";"TISAX-30";"Existe processo formal de criação de usuários?";"Solicitação";"";"";"Conforme";"5.18 Os direitos de acesso às informações e a outros ativos
+associados devem ser provisionados, analisados
+criticamente, modificados e removidos de acordo
+com a política de tema específico e com as regras da
+organização para o controle de acess"
+"5. Controle de acesso";"TISAX-31";"Existe aprovação para acessos privilegiados?";"Tickets";"";"";"N/A";""
+"5. Controle de acesso";"TISAX-32";"Acessos são revisados periodicamente?";"Relatórios";"";"";"N/A";""
+"5. Controle de acesso";"TISAX-33";"Contas de ex-funcionários são bloqueadas?";"Logs";"";"";"Conforme";"Apos e-mail do RH o departamento de TI realizar o bloque de todos os acesso ."
+"5. Controle de acesso";"TISAX-34";"Existe MFA para sistemas críticos?";"Configuração";"";"";"Conforme";"Autenticação Multifator (Multi-Factor Authentication), um método de segurança que exige duas ou mais formas independentes de comprovação de identidade para conceder acesso a um sistema."
+"5. Controle de acesso";"TISAX-35";"Contas administrativas são controladas?";"Inventário";"";"";"Conforme";"O Active Directory (muitas vezes traduzido ou adaptado por termos como ""activo diretor"") é um serviço de diretório da Microsoft usado para gerenciar usuários, computadores e permissões em redes corporativas"
+"5. Controle de acesso";"TISAX-36";"Existe política de senhas/autenticação?";"Política";"";"";"Conforme";"Sim e necessário colocar uma letra maiscula e um caracter especial "
+"6. Segurança física";"TISAX-37";"As áreas críticas possuem controle de acesso físico?";"Controle eletrônico";"";"";"Conforme";"sim , em cada departamento existe um leito onde o colaborador atraves do cracha tem a sua autorização ou não. "
+"6. Segurança física";"TISAX-38";"Visitantes são registrados?";"Livro/sistema";"";"";"Conforme";"Sim , quando o visitante acesso a empresa e necessario realizar o sue cadastro a portaria e ter um mini treinamento para adentrar na empresa"
+"6. Segurança física";"TISAX-39";"Existem áreas restritas?";"Mapa";"";"";"Conforme";"Sim, está area contem um  sensor  solicitando a leitura do cracha , caso positivo é permitido o acesso."
+"6. Segurança física";"TISAX-40";"Existe controle de acesso aos servidores?";"Logs";"";"";"Conforme";"Sim utilizamos a AWS nosso ADM "
+"6. Segurança física";"TISAX-41";"Existem câmeras nas áreas críticas quando aplicável?";"CFTV";"";"";"N/A";""
+"6. Segurança física";"TISAX-42";"Existe proteção contra acesso não autorizado?";"Inspeção";"";"";"N/A";""
+"6. Segurança física";"TISAX-43";"Equipamentos críticos estão protegidos?";"Inspeção física";"";"";"Conforme";"Equipamento  sao protegidos atraves de racks em ambiente fecha e climatizado."
+"7. Segurança de TI";"TISAX-44";"Existe processo de gestão de vulnerabilidades?";"Relatórios";"";"";"Conforme";"Informações sobre vulnerabilidades técnicas dos sistemas
+de informação em uso devem ser obtidas; a exposição da
+organização a tais vulnerabilidades deve ser avaliada e
+medidas apropriadas devem ser tomadas"
+"7. Segurança de TI";"TISAX-45";"Patches são aplicados regularmente?";"Relatórios";"";"";"Parcial";"sao aplicado os patches conforme ativo, na area fiscal no final do mes e aplicado para alguma alteração na area fiscal."
+"7. Segurança de TI";"TISAX-46";"Antimalware/EDR está implementado?";"Console";"";"";"Melhoria";"Está em nosso projeto para realizar esta melhoria 
+O antimalware e/ou EDR (Endpoint Detection and Response) está implementado quando há agentes de segurança ativos, atualizados e monitorados em todos os pontos de extremidade (computadores, servidores e dispositivos móveis) da organizaçã"
+"7. Segurança de TI";"TISAX-47";"Firewalls estão configurados e monitorados?";"Configuração";"";"";"Conforme";"Sim existe um departamento que realiza a monitorames e constante "
+"7. Segurança de TI";"TISAX-48";"Existe segmentação de rede?";"Diagrama";"";"";"N/A";"A segmentação de rede é uma prática de arquitetura que divide uma rede grande em várias subseções ou sub-redes menores e isoladas.O que é e como funcionaCada segmento atua como uma rede independente.Permite controlar o tráfego de dados com regras específicas.Impede o movimento lateral, que é a propagação de invasões e ameaças dentro do sistem"
+"7. Segurança de TI";"TISAX-49";"Sistemas críticos possuem proteção adequada?";"Arquitetura";"";"";"Conforme";" Grandes organizações adotem defesas avançadas, o aumento na sofisticação de ciberataques e a interconexão digital criam lacunas que deixam muitos sistemas críticos e infraestruturas vitais vulneráveis."
+"7. Segurança de TI";"TISAX-50";"Logs de segurança são coletados?";"SIEM/logs";"";"";"Conforme";"Todos os log sao analisados "
+"7. Segurança de TI";"TISAX-51";"Os logs são protegidos contra alteração?";"Configuração";"";"";"Conforme";"Sim  são protegidos , em pasta diaria "
+"7. Segurança de TI";"TISAX-52";"Existe monitoramento de eventos de segurança?";"Dashboard/SIEM";"";"";"Conforme";"Sim , nosso analista tem um schedule  para ser comprido para cada evento de segurança"
+"8. Backup e recuperação";"TISAX-53";"Existe política de backup?";"Política";"";"";"Conforme";"Os melhores equipamentos para realizar um backup seguro combinam o armazenamento físico isolado com a redundância na nuvem
+HD Externo / SSD portátil: Ideal para uso pessoal e cópias manuais rápidas.Dispositivo NAS (Network Attached Storage): Servidor doméstico ou empresarial conectado à rede local.Fitas LTO (Tape Libraries): Usadas por grandes corporações para armazenamento offline seguro.Pen drives e Cartões SD: Indicados apenas para arquivos pequenos e temporários.  Infraestrutura de Apoio e NuvemServidores em Nuvem: Google Drive, Dropbox ou Amazon S3 para redundância remota.Backup Híbrido: Combina gravação local rápida com replicação automática na nuvem.Dispositivos Imutáveis: Impedem que arquivos salvos sejam apagados por resgates (ransomware)."
+"8. Backup e recuperação";"TISAX-54";"Os sistemas críticos possuem backup?";"Relatório";"";"";"Conforme";"Sim conforme ja descritos"
+"8. Backup e recuperação";"TISAX-55";"Os backups são testados?";"Evidência de teste";"";"";"Não conforme";"Nao "
+"8. Backup e recuperação";"TISAX-56";"Existem cópias protegidas contra ransomware?";"Arquitetura";"";"";"Conforme";"Sim, existem cópias de segurança (backups) protegidas contra ransomware, sendo o principal método o uso de backups imutáveis"
+"8. Backup e recuperação";"TISAX-57";"Existem procedimentos de restauração?";"Procedimento";"";"";"Conforme";"Sim, existem procedimentos de restauração, sendo os mais comuns os procedimentos de restauração dentária para reparar dentes danificados por cáries ou traumas"
+"8. Backup e recuperação";"TISAX-58";"Os tempos de recuperação estão definidos?";"BIA/RTO";"";"";"Conforme";"Foi  estimado inicialmente entre quatro a oito semanas pelo departamento depende do ativo "
+"8. Backup e recuperação";"TISAX-59";"Os responsáveis pela recuperação estão definidos?";"Plano";"";"";"Não conforme";"Nao , todos do TI pode realizar a recuperação dos backup"
+"9. Gestão de incidentes";"TISAX-60";"Existe procedimento de incidentes?";"Procedimento";"";"";"Conforme";"Sim, existem procedimentos de incidentes, mas eles variam conforme a área de atuação (como Tecnologia da Informação, Segurança do Trabalho, Direito ou Proteção de Dados)."
+"9. Gestão de incidentes";"TISAX-61";"Existe canal para comunicar incidentes?";"Canal";"";"";"Conforme";"Sim, existem diferentes canais específicos para comunicar incidentes, dependendo do tipo de ocorrência e do setor envolvido"
+"9. Gestão de incidentes";"TISAX-62";"Incidentes são classificados?";"Registro";"";"";"Não conforme";"Nao "
+"9. Gestão de incidentes";"TISAX-63";"Existe análise de causa raiz?";"RCA";"";"";"Não conforme";"Nao "
+"9. Gestão de incidentes";"TISAX-64";"Incidentes são documentados?";"Sistema";"";"";"Não conforme";"Nao depende do inivel do incidentes"
+"9. Gestão de incidentes";"TISAX-65";"Existem critérios para comunicação ao cliente?";"Procedimento";"";"";"Conforme";"Sim, existem critérios e normas importantes para orientar a comunicação com o cliente, garantindo clareza, eficiência e confianç"
+"9. Gestão de incidentes";"TISAX-66";"São realizadas lições aprendidas?";"Relatórios";"";"";"Não conforme";""
+"9. Gestão de incidentes";"TISAX-67";"Incidentes são utilizados para melhoria?";"Plano de ação";"";"";"Conforme";"Sim, estamos apredendo com os nosso erros"
+"10. Gestão de fornecedores";"TISAX-68";"Fornecedores críticos são identificados?";"Matriz";"";"";"Conforme";"Os fornecedor sao identificado por tipo de produto que nos forneça "
+"10. Gestão de fornecedores";"TISAX-69";"Existe avaliação de risco de fornecedores?";"Avaliação";"";"";"Não conforme";""
+"10. Gestão de fornecedores";"TISAX-70";"Contratos possuem requisitos de segurança?";"Contratos";"";"";"Não conforme";""
+"10. Gestão de fornecedores";"TISAX-71";"Existe NDA quando necessário?";"NDA";"";"";"N/A";""
+"10. Gestão de fornecedores";"TISAX-72";"Fornecedores são avaliados periodicamente?";"Avaliação";"";"";"Conforme";"avaliação de fornecedores é uma prática recomendada e realizada periodicamente pelas empresas para garantir a qualidade de produtos e serviços."
+"10. Gestão de fornecedores";"TISAX-73";"Existe processo para fornecedores críticos de TI?";"Due diligence";"";"";"N/A";""
+"10. Gestão de fornecedores";"TISAX-74";"Existem requisitos para subcontratados?";"Contratos";"";"";"N/A";""
+"10. Gestão de fornecedores";"TISAX-75";"Existe processo de encerramento do fornecedor?";"Checklist";"";"";"N/A";""
+"11. Segurança no desenvolvimento";"TISAX-76";"Existe processo seguro de desenvolvimento?";"SDLC";"";"";"N/A";""
+"11. Segurança no desenvolvimento";"TISAX-77";"Código possui controle de acesso?";"Git";"";"";"N/A";""
+"11. Segurança no desenvolvimento";"TISAX-78";"Existem revisões de código?";"Pull requests";"";"";"N/A";""
+"11. Segurança no desenvolvimento";"TISAX-79";"São realizados testes de segurança?";"Relatórios";"";"";"Conforme";"Sim , e realizado teste de segurança  2 vezes por semana"
+"11. Segurança no desenvolvimento";"TISAX-80";"Vulnerabilidades são tratadas antes da produção?";"Tickets";"";"";"Parcial";""
+"11. Segurança no desenvolvimento";"TISAX-81";"Ambientes DEV/TEST/PROD são separados?";"Arquitetura";"";"";"Conforme";"nao todos os colaboradores ficam na mesma sala"
+"11. Segurança no desenvolvimento";"TISAX-82";"Dados reais são protegidos em ambientes de teste?";"Evidências";"";"";"Conforme";"Sim existe um servidor de produção e outro de homologaçao o servidor de homologação e onde seram realizados os teste"
+"12. Continuidade de negócios";"TISAX-83";"Existe plano de continuidade?";"BCP";"";"";"Conforme";"Plano de Continuidade de Negócios (PCN) existe e é um conjunto formal de procedimentos que ajuda uma organização a continuar operando durante e após eventos adversos."
+"12. Continuidade de negócios";"TISAX-84";"Existe análise de impacto no negócio?";"BIA";"";"";"Não conforme";""
+"12. Continuidade de negócios";"TISAX-85";"Processos críticos estão identificados?";"BIA";"";"";"Não conforme";""
+"12. Continuidade de negócios";"TISAX-86";"RTO/RPO estão definidos?";"BIA";"";"";"Não conforme";"Com os objetivos de RTO (Recovery Time Objective) e RPO (Recovery Point Objective) definidos, o próximo passo é estruturar e validar a estratégia de Disaster Recovery e continuidade de negócios."
+"12. Continuidade de negócios";"TISAX-87";"O plano é testado?";"Simulados";"";"";"Não conforme";""
+"12. Continuidade de negócios";"TISAX-88";"Existem planos para indisponibilidade de TI?";"DRP";"";"";"N/A";""
+"12. Continuidade de negócios";"TISAX-89";"Os resultados dos testes geram ações?";"Plano de ação";"";"";"Conforme";"Sim sempre visando a melhoria continua"
+"13. Proteção de protótipos";"PRO-01";"Protótipos são identificados como ativos críticos?";"Inventário";"";"";"N/A";""
+"13. Proteção de protótipos";"PRO-02";"Existem áreas restritas para protótipos?";"Inspeção";"";"";"N/A";""
+"13. Proteção de protótipos";"PRO-03";"O acesso aos protótipos é controlado?";"Logs";"";"";"N/A";""
+"13. Proteção de protótipos";"PRO-04";"Fotografias são controladas?";"Política";"";"";"Conforme";"Sim em  pasta com acesso somente o dono da arquivo"
+"13. Proteção de protótipos";"PRO-05";"Celulares/câmeras são controlados quando necessário?";"Procedimento";"";"";"Conforme";"Sim todos os ativos sao controlados por usuarios e por departamento"
+"13. Proteção de protótipos";"PRO-06";"Visitantes são acompanhados?";"Registro";"";"";"Conforme";"Sim , quando os visitante entram na empresa ja sao motitorado."
+"13. Proteção de protótipos";"PRO-07";"Transporte de protótipos é controlado?";"Procedimento";"";"";"N/A";""
+"13. Proteção de protótipos";"PRO-08";"Existe proteção durante eventos?";"Plano";"";"";"Conforme";"Sim nosso colabores (guarda internos)"
+"13. Proteção de protótipos";"PRO-09";"Existem regras para filmagens/fotografias?";"Procedimento";"";"";"Conforme";"Sim e proibido a filmagens/fotografias dentro da empresa"
+"13. Proteção de protótipos";"PRO-10";"Protótipos descartados são destruídos adequadamente?";"Evidência";"";"";"N/A";""
+"14. Proteção de dados";"DAT-01";"Existe inventário de dados pessoais?";"Registro";"";"";"N/A";""
+"14. Proteção de dados";"DAT-02";"Existe finalidade definida para tratamento?";"Registro";"";"";"N/A";""
+"14. Proteção de dados";"DAT-03";"Existe base legal adequada?";"Documentação";"";"";"N/A";""
+"14. Proteção de dados";"DAT-04";"Existem controles de acesso aos dados pessoais?";"Sistema";"";"";"Conforme";"sim ,  todos os dispositivos  do PC ou notebook sao Bloqueados"
+"14. Proteção de dados";"DAT-05";"Existe processo de atendimento aos titulares?";"Procedimento";"";"";"N/A";""
+"14. Proteção de dados";"DAT-06";"Existe retenção definida?";"Política";"";"";"N/A";""
+"14. Proteção de dados";"DAT-07";"Existe descarte seguro?";"Evidência";"";"";"N/A";""
+"14. Proteção de dados";"DAT-08";"Incidentes envolvendo dados pessoais são tratados?";"Procedimento";"";"";"N/A";""
+"14. Proteção de dados";"DAT-09";"Fornecedores que processam dados são avaliados?";"Contratos";"";"";"Conforme";"sim atravez de arquivos INI "
+"14. Proteção de dados";"DAT-10";"Existem medidas adicionais para dados especiais?";"Controles";"";"";"N/A";""
+"15. Gestão documental";"DOC-01";"Documentos possuem controle de versão?";"Sistema";"";"";"N/A";""
+"15. Gestão documental";"DOC-02";"Documentos possuem responsável?";"Metadados";"";"";"N/A";""
+"15. Gestão documental";"DOC-03";"Existe aprovação formal?";"Workflow";"";"";"N/A";""
+"15. Gestão documental";"DOC-04";"Documentos obsoletos são controlados?";"Registro";"";"";"N/A";""
+"15. Gestão documental";"DOC-05";"Evidências de auditoria são armazenadas?";"Repositório";"";"";"Conforme";"Sim todos os controles de auditoria são armazenado"
+"15. Gestão documental";"DOC-06";"Registros possuem prazo de retenção?";"Política";"";"";"Conforme";"Sim existe um controle de retenção"
+"16. Auditoria interna";"AUD-01";"Existe programa de auditoria interna?";"Plano anual";"";"";"Conforme";"Sim "
+"16. Auditoria interna";"AUD-02";"O programa considera riscos?";"Matriz";"";"";"Não conforme";""
+"16. Auditoria interna";"AUD-03";"Auditores possuem competência adequada?";"Qualificação";"";"";"Conforme";"sim "
+"16. Auditoria interna";"AUD-04";"Existe independência da auditoria?";"Registros";"";"";"Conforme";""
+"16. Auditoria interna";"AUD-05";"Não conformidades são registradas?";"Relatórios";"";"";"Conforme";"sim "
+"16. Auditoria interna";"AUD-06";"Existe tratamento das não conformidades?";"Plano";"";"";"Conforme";"sim "
+"16. Auditoria interna";"AUD-07";"A eficácia das ações é verificada?";"Follow-up";"";"";"Conforme";"sim "
+"17. Melhoria contínua";"IMP-01";"Existem indicadores de segurança?";"KPI";"";"";"Melhoria";""
+"17. Melhoria contínua";"IMP-02";"Os indicadores são analisados?";"Dashboard";"";"";"Melhoria";""
+"17. Melhoria contínua";"IMP-03";"Existe plano de melhoria?";"Plano";"";"";"Melhoria";""
+"17. Melhoria contínua";"IMP-04";"Incidentes geram melhorias?";"RCA";"";"";"N/A";""
+"17. Melhoria contínua";"IMP-05";"Auditorias geram melhorias?";"CAPA";"";"";"Conforme";"SIm "
+"17. Melhoria contínua";"IMP-06";"A direção acompanha os resultados?";"Management Review";"";"";"Conforme";"Sim "
